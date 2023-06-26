@@ -46,6 +46,8 @@
      <Folder Include="Assets" />
      <Folder Include="Assets/Polytope Studio/Lowpoly_Environments/Prefabs/Flowers" />
      <Folder Include="Assets/Polytope Studio/Lowpoly_Environments/Sources" />
+     <Folder Include="Assets/Baker House/Materials" />
+     <Folder Include="Assets/Baker House/Models/Materials" />
      <Folder Include="Assets/Polytope Studio/Lowpoly_Environments/Prefabs/Rocks" />
      <Folder Include="Assets/Polytope Studio/Lowpoly_Environments/SRP" />
      <Folder Include="Assets/Polytope Studio" />
@@ -59,9 +61,11 @@
      <Folder Include="Assets/Polytope Studio/Lowpoly_Environments/Sources/Meshes" />
      <Folder Include="Assets/Polytope Studio/Lowpoly_Demos/Environment_Free/Helpers/Materials" />
      <Folder Include="Assets/Polytope Studio/Lowpoly_Environments/Prefabs/Mushrooms" />
+     <None Include="Assets/Baker House/Readme.txt" />
      <Folder Include="Assets/Polytope Studio/Lowpoly_Environments/Sources/Shaders" />
      <Folder Include="Assets/Polytope Studio/Lowpoly_Demos/Environment_Free/Helpers/Terrain" />
      <Folder Include="Assets/Polytope Studio/Lowpoly_Environments/Prefabs/Trees" />
+     <Folder Include="Assets/Baker House/Textures" />
      <Folder Include="Assets/Polytope Studio/Lowpoly_Village/Sources/Materials" />
      <Folder Include="Assets/Polytope Studio/Lowpoly_Environments/Sources/Meshes/Trees" />
      <Folder Include="Assets/Polytope Studio/Lowpoly_Village/Prefabs" />
@@ -76,13 +80,16 @@
      <None Include="Assets/Polytope Studio/Lowpoly_Environments/Sources/Shaders/PT_Water_Shader.shader" />
      <None Include="Assets/Polytope Studio/Lowpoly_Environments/Sources/Shaders/PT_Vegetation_Flowers_Shader.shader" />
      <None Include="Assets/Polytope Studio/Lowpoly_Environments/Sources/Shaders/PT_Rock_Shader_VS.shader" />
+     <Folder Include="Assets/Baker House" />
      <Folder Include="Assets/Polytope Studio/Lowpoly_Environments/Prefabs/Shrubs" />
      <Folder Include="Assets/Polytope Studio/Lowpoly_Environments/Sources/Meshes/Mushrooms" />
      <None Include="Assets/Polytope Studio/Lowpoly_Environments/Sources/Shaders/PT_Vegetation_Plants_Shader_VS.shader" />
      <Folder Include="Assets/Polytope Studio/Lowpoly_Environments/Prefabs" />
+     <Folder Include="Assets/Baker House/Models" />
      <Folder Include="Assets/Polytope Studio/Lowpoly_Village/Sources" />
      <None Include="Assets/Polytope Studio/Lowpoly_Environments/Sources/Shaders/PT_Vegetation_Flowers_Shader_VS.shader" />
      <Folder Include="Assets/Polytope Studio/Lowpoly_Demos/Environment_Free" />
+     <Folder Include="Assets/Baker House/Prefabs" />
      <Folder Include="Assets/Polytope Studio/Lowpoly_Environments/Prefabs/Plants" />
      <Folder Include="Assets/Polytope Studio/Lowpoly_Village" />
      <None Include="Assets/Polytope Studio/Lowpoly_Environments/Sources/Shaders/PT_Rock_Shader.shader" />
